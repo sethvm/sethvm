@@ -1,8 +1,10 @@
 # G'day! I'm Seth :zap:
 
-I'm a product designer pursuing a BASc in Systems Design Engineering at the University of Waterloo.
+- Systems Design Engineering undergrad at the University of Waterloo
 
-Occasionally, I write code.
+- Product Designer
+
+- Occasionally writes code
 ##
 👋🏽 **Say hi on [LinkedIn](https://www.linkedin.com/in/sethvm)**
 
