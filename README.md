@@ -3,8 +3,7 @@
 I'm a product designer pursuing a BASc in Systems Design Engineering at the University of Waterloo.
 
 Occasionally, I write code.
-
----
+##
 👋🏽 **Say hi on [LinkedIn](https://www.linkedin.com/in/sethvm)**
 
 📫 **Toss over an [email](mailto:sethvm64@gmail.com?cc=svmoreno@uwaterloo.ca)**
