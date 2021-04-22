@@ -1,4 +1,4 @@
-# G'day! I'm Seth :rocket:
+# G'day! I'm Seth :zap:
 
 I'm a product designer pursuing a BASc in Systems Design Engineering at the University of Waterloo.
 
