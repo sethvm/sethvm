@@ -2,7 +2,7 @@
 
 🚀 Engineering undergrad at the University of Waterloo
 
-✒️ Product Designer
+✒️ Product designer
 
 💪 Is probably out lifting or climbing
 
