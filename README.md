@@ -1,14 +1,16 @@
-# G'day! I'm Seth :zap:
+# G'day! I'm Seth 🚀
 
-- Systems Design Engineering undergrad at the University of Waterloo
+- Engineering undergrad at the University of Waterloo
 
 - Product Designer
 
 - Occasionally writes code
 ##
-👋🏽 **Say hi on [LinkedIn](https://www.linkedin.com/in/sethvm)**
+💬 **Say hi on [LinkedIn](https://www.linkedin.com/in/sethvm)**
 
-📫 **Toss over an [email](mailto:sethvm64@gmail.com?cc=svmoreno@uwaterloo.ca)**
+📧 **Toss over an [email](mailto:sethvm64@gmail.com?cc=svmoreno@uwaterloo.ca)**
+
+📂 **Read up on my [design case studies](https://sethvm.netlify.app)
 
 <!--
 **sethvm/sethvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
