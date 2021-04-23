@@ -1,6 +1,6 @@
-# G'day! I'm Seth 🚀
+# G'day! I'm Seth.
 
-📚 Engineering undergrad at the University of Waterloo
+🚀 Engineering undergrad at the University of Waterloo
 
 ✒️ Product Designer
 
