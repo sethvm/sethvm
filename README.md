@@ -1,20 +1,20 @@
 # G'day! I'm Seth.
 
-🚀 Engineering undergrad at the University of Waterloo
+🚀  Engineering undergrad at the University of Waterloo
 
-✒️ Product designer
+✒️  Product designer
 
-💪 Is probably out lifting or climbing
+💪  Is probably out lifting or climbing
 
-💻 Occasionally writes code
+💻  Occasionally writes code
 ##
 **Not looking to browse repos?**
 
-💬 **Say hi on [LinkedIn](https://www.linkedin.com/in/sethvm)**
+💬  **Say hi on [LinkedIn](https://www.linkedin.com/in/sethvm)**
 
-📧 **Toss over an [email](mailto:sethvm64@gmail.com?cc=svmoreno@uwaterloo.ca)**
+📧  **Toss over an [email](mailto:sethvm64@gmail.com?cc=svmoreno@uwaterloo.ca)**
 
-📂 **Read up on my [design case studies](https://sethvm.netlify.app)**
+📂  **Read up on my [design case studies](https://sethvm.netlify.app)**
 
 <!--
 **sethvm/sethvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
