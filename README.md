@@ -1,6 +1,6 @@
 # G'day! I'm Seth.
 
-🚀 Engineering undergrad at the University of Waterloo
+🚀 Systems Design Engineering undergrad at the University of Waterloo
 
 ✒️ Product designer
 
