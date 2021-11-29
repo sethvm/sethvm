@@ -7,6 +7,8 @@
 💪 Is probably out lifting or climbing
 
 💻 Occasionally writes code
+
+[![Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethvm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ##
 **Not looking to browse repos?**
 
