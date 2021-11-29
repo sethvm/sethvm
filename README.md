@@ -21,7 +21,7 @@
 [![Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethvm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethvm&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethvm&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sethvm/sethvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
