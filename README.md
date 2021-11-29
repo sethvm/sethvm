@@ -7,8 +7,6 @@
 💪 Is probably out lifting or climbing
 
 💻 Occasionally writes code
-
-[![Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethvm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ##
 **Not looking to browse repos?**
 
@@ -17,6 +15,8 @@
 📧 **Toss over an [email](mailto:sethvm64@gmail.com?cc=svmoreno@uwaterloo.ca)**
 
 📂 **Read up on my [design case studies](https://sethvm.netlify.app)**
+##
+[![Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethvm&show_icons=true&theme=dark&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sethvm/sethvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
