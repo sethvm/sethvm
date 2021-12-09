@@ -4,7 +4,7 @@
 
 ✒️ Product designer
 
-💪 Is probably out lifting or climbing
+💪 Probably out lifting or climbing
 
 💻 Occasionally writes code
 ##
