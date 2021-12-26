@@ -14,7 +14,7 @@
 
 📧 Toss over an [email](mailto:sethvm64@gmail.com?cc=svmoreno@uwaterloo.ca)
 
-📂 Read up on my [design case studies](https://sethvm.netlify.app)
+📂 Read up on my [design case studies](https://sethvm.com)
 ##
 
 <!--
