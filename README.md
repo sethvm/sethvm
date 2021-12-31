@@ -8,7 +8,7 @@
 
 💻 Occasionally writes code
 ##
-**Not looking to browse repos?**
+**Not here to look through repos?**
 
 💬 Say hi on [LinkedIn](https://www.linkedin.com/in/sethvm)
 
