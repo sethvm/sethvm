@@ -6,8 +6,6 @@
 
 💪 Probably out lifting or climbing
 
-💻 Occasionally writes code
-
 🚧 Currently learning how to build Figma plugins
 ##
 **Not here to look through repos?**
