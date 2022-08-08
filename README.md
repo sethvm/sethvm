@@ -1,4 +1,4 @@
-# G'day! I'm Seth.
+# G'day, I'm Seth.
 
 ✒️ Product designer
 
@@ -10,9 +10,9 @@
 ##
 **Not here to look through repos?**
 
-💬 Say hi on [LinkedIn](https://www.linkedin.com/in/sethvm)
+💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/sethvm)
 
-📧 Toss over an [email](mailto:sethvm64@gmail.com?cc=svmoreno@uwaterloo.ca)
+📧 Send an [email](mailto:sethvm64@gmail.com?cc=svmoreno@uwaterloo.ca)
 
 📂 Read up on my [design case studies](https://sethvm.com)
 ##
