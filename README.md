@@ -6,6 +6,8 @@
 
 💪 Probably out lifting or climbing
 
+📷 May also be on a photo walk 
+
 🚧 Currently learning how to build Figma plugins
 ##
 **Not here to look through repos?**
