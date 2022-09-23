@@ -8,7 +8,7 @@
 
 📷 May also be on a photo walk 
 
-🚧 Currently learning how to bdraw things with [p5.js](https://p5js.org/)
+🎨 Currently diving into creative coding with [p5.js](https://p5js.org/)
 ##
 **Not here to look through repos?**
 
