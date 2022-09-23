@@ -4,11 +4,11 @@
 
 🚀 Systems Design Engineering undergrad at the University of Waterloo
 
+🎨 Currently diving into creative coding with [p5.js](https://p5js.org/)
+
 💪 Probably out lifting or climbing
 
-📷 May also be on a photo walk 
-
-🎨 Currently diving into creative coding with [p5.js](https://p5js.org/)
+📷 May also be on a photo walk
 ##
 **Not here to look through repos?**
 
