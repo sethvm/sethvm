@@ -8,7 +8,7 @@
 
 📷 May also be on a photo walk 
 
-🚧 Currently learning how to build Figma plugins
+🚧 Currently learning how to bdraw things with [p5.js](https://p5js.org/)
 ##
 **Not here to look through repos?**
 
