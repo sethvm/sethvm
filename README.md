@@ -2,7 +2,7 @@
 
 ✒️ Product designer
 
-🚀 Systems Design Engineering undergrad at the University of Waterloo
+🚀 Systems Design Engineering graduate from the University of Waterloo
 
 🎨 Currently diving into creative coding with [p5.js](https://p5js.org/)
 
