@@ -14,11 +14,9 @@
 
 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/sethvm)
 
-📧 Send an [email](mailto:sethvm64@gmail.com?cc=svmoreno@uwaterloo.ca)
-
 📂 Read up on my [design case studies](https://sethvm.com)
 
-🎞️ Scroll through some of [my recent shots](https://vsco.co/sthvm/gallery)
+🎞️ Browse through [my photography gallery](https://sethvm.studio)
 
 <!--
 [![Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethvm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
