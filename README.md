@@ -16,7 +16,7 @@
 
 📂 Read up on my [design case studies](https://sethvm.com)
 
-🎞️ Browse through my [photography gallery](https://sethvm.studio)
+🎞️ Check out my [photography gallery](https://sethvm.studio)
 
 <!--
 [![Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethvm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
